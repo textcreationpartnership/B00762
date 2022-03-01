@@ -1,0 +1,413 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A lamentable new ditty, made vpon the death of a worthy gentleman, named George Stoole, dwelling sometime on Gate-side Moore, and sometime at New-castle in Northumberland: with his penitent end. To a delicate Scottish tune.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1630</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 6 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B00762</idno>
+            <idno type="STC">STC 23291</idno>
+            <idno type="STC">Interim Tract Supplement Guide C.20.f.7[186]</idno>
+            <idno type="EEBO-CITATION">99884303</idno>
+            <idno type="PROQUEST">ocm99884303</idno>
+            <idno type="VID">183018</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B00762)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 183018)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; A5:1[100])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A lamentable new ditty, made vpon the death of a worthy gentleman, named George Stoole, dwelling sometime on Gate-side Moore, and sometime at New-castle in Northumberland: with his penitent end. To a delicate Scottish tune.</title>
+               </titleStmt>
+               <extent>1 sheet ([1] p.) : ill.  </extent>
+               <publicationStmt>
+                  <publisher>Printed for H. Gosson:,</publisher>
+                  <pubPlace>At London :</pubPlace>
+                  <date>[1630?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Publication date suggested by STC.</note>
+                  <note>Verse: "Come you lusty Northerue [sic] lads ..."</note>
+                  <note>In two parts; woodcuts at head of each part.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Stoole, George, d. 1610 --  Early works to 1800.</term>
+               <term>Ballads, English --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-05</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-05</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="ballad">
+            <pb facs="tcp:183018:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 19 -->
+            <head>A lamentable new Ditty, made vpon the death of a worthy Gentle<g ref="char:EOLhyphen"/>man, named <hi>George Stoole,</hi> dwelling ſometime on <hi>Gate-ſide Moore,</hi> and ſometime at New-caſtle in Northumberland: with his penitent end.</head>
+            <opener>To a delicate Scottiſh Tune.</opener>
+            <div n="1" type="part">
+               <p>
+                  <figure/>
+               </p>
+               <lg>
+                  <l>COme you luſty Northerne Lads,</l>
+                  <l>that are ſo blith and bonny,</l>
+                  <l>Prepare your hearts to be full ſad,</l>
+                  <l>to heare the end of <hi>Georgy,</hi>
+                  </l>
+                  <lg type="refrain">
+                     <l>
+                        <hi>Heigh ho, Heigh-ho my bony loue,</hi>
+                     </l>
+                     <l>
+                        <hi>Heigh-ho, heigh ho my honny;</hi>
+                     </l>
+                     <l>
+                        <hi>Heigh-ho, Heigh-ho my owne deare loue</hi>
+                     </l>
+                     <l>
+                        <hi>and God be with my Georgie.</hi>
+                     </l>
+                  </lg>
+               </lg>
+               <lg>
+                  <l>When <hi>Georgie</hi> to his triall came,</l>
+                  <l>a thouſand hearts were ſorry,</l>
+                  <l>A thouſand Laſſes wept full ſore,</l>
+                  <l>and all for loue of <hi>Georgy.</hi>
+                  </l>
+                  <lg type="refrain">
+                     <l>
+                        <hi>Heigh-ho, heigh-ho, my bony Loue,</hi>
+                     </l>
+                     <l>
+                        <hi>heigho, &amp;c.</hi>
+                     </l>
+                  </lg>
+               </lg>
+               <lg>
+                  <l>Some did ſay he would eſcape,</l>
+                  <l>ſome at his fall did glory:</l>
+                  <l>But theſe wers Clownes and fickle friends,</l>
+                  <l>and none that loued <hi>Georgy.</hi>
+                  </l>
+                  <lg type="refrain">
+                     <l>
+                        <hi>Heigh-ho, &amp;c.</hi>
+                     </l>
+                  </lg>
+               </lg>
+               <lg>
+                  <l>Might friends haue ſatisfide the Law,</l>
+                  <l>then <hi>Gorgie</hi> would find many:</l>
+                  <l>Yet brauely did he plead for life,</l>
+                  <l>if mercy might be any.</l>
+                  <lg type="refrain">
+                     <l>
+                        <hi>Heigh-ho, &amp;c.</hi>
+                     </l>
+                  </lg>
+               </lg>
+               <lg>
+                  <l>But when this doughty Carle was caſt</l>
+                  <l>he was full ſad and ſorry:</l>
+                  <l>Yet boldly did he take his death,</l>
+                  <l>ſo patiently dyde <hi>Georgie.</hi>
+                  </l>
+                  <lg type="refrain">
+                     <l>
+                        <hi>Heigh-ho, &amp;c.</hi>
+                     </l>
+                  </lg>
+               </lg>
+               <lg>
+                  <l>As <hi>Georgie</hi> went vp to the Gate,</l>
+                  <l>He tooke his leaue of many:</l>
+                  <l>He tooke his leaue of his Lards wife,</l>
+                  <l>whom ho lou'd beſt of any.</l>
+                  <lg type="refrain">
+                     <l>
+                        <hi>Heigh-ho, &amp;c.</hi>
+                     </l>
+                  </lg>
+               </lg>
+               <lg>
+                  <l>With thouſand ſighs and heauy looks,</l>
+                  <l>away from thence he parted:</l>
+                  <l>Where he ſo often blith had béene,</l>
+                  <l>though now ſo heauy hearted.</l>
+                  <lg type="refrain">
+                     <l>
+                        <hi>Heigh-ho, &amp;c.</hi>
+                     </l>
+                  </lg>
+               </lg>
+               <lg>
+                  <l>He writ a Letter with his owne hand,</l>
+                  <l>he thought he writ it brauely:</l>
+                  <l>He ſent it to <hi>New-caſtle</hi> Towne,</l>
+                  <l>to his beloued Lady.</l>
+                  <lg type="refrain">
+                     <l>
+                        <hi>Heigh-ho, &amp;c.</hi>
+                     </l>
+                  </lg>
+               </lg>
+               <lg>
+                  <l>Wherein he did at large bewaile,</l>
+                  <l>the occaſion of his folly:</l>
+                  <l>Bequeathing life vnto the Law,</l>
+                  <l>his ſoule to heauen holy:</l>
+                  <lg type="refrain">
+                     <l>
+                        <hi>Heigh-ho, &amp;c.</hi>
+                     </l>
+                  </lg>
+               </lg>
+               <lg>
+                  <l>Why Lady, leaue to weepe for me,</l>
+                  <l>let not my ending grieue ye:</l>
+                  <l>Proue coſtant to the ney yon loue,</l>
+                  <l>for I cannot reléeue yee.</l>
+                  <lg type="refrain">
+                     <l>
+                        <hi>Heigh-ho, &amp;c.</hi>
+                     </l>
+                  </lg>
+               </lg>
+               <lg>
+                  <l>Out vpon the <hi>Withrington,</hi>
+                  </l>
+                  <l>and fie vpon the <hi>Phoenix:</hi>
+                  </l>
+                  <l>Thou haſt out downe the doughty one</l>
+                  <l>that ſtole the ſhéepe from <hi>Anix.</hi>
+                  </l>
+               </lg>
+            </div>
+            <div n="2" type="part">
+               <head>The ſecond part,</head>
+               <opener>To the ſame tune.</opener>
+               <p>
+                  <figure/>
+               </p>
+               <p>
+                  <figure/>
+               </p>
+               <lg>
+                  <l>ANd ſie on all ſuch cruell Carles,</l>
+                  <l>whoſe crueltie's ſo fickle:</l>
+                  <l>To caſt away a Gentleman</l>
+                  <l>in hatred for ſo little.</l>
+                  <lg type="refrain">
+                     <l>
+                        <hi>Heigh-ho heigh-ho, my bonny Loue,</hi>
+                     </l>
+                     <l>
+                        <hi>heigh-ho, &amp;c.</hi>
+                     </l>
+                  </lg>
+               </lg>
+               <lg>
+                  <l>I would I were on yonder Hill,</l>
+                  <l>where I haue beene full merry:</l>
+                  <l>My ſword and buckeler by my ſide</l>
+                  <l>to fight till I be weary.</l>
+                  <lg type="refrain">
+                     <l>
+                        <hi>Heigh-ho &amp;c.</hi>
+                     </l>
+                  </lg>
+               </lg>
+               <lg>
+                  <l>They well, ſhould know that tooke mee firſt</l>
+                  <l>though whoops be now forſaken:</l>
+                  <l>Had I but freedome, armes, and health,</l>
+                  <l>I'de dye, are I'de be taken.</l>
+                  <lg type="refrain">
+                     <l>
+                        <hi>Heigh-ho, &amp;c.</hi>
+                     </l>
+                  </lg>
+               </lg>
+               <lg>
+                  <l>But Law comdemns me to my graue,</l>
+                  <l>they haue me in their power:</l>
+                  <l>Ther's none but Chriſt that can mee ſaue,</l>
+                  <l>at this my dying houre.</l>
+                  <lg type="refrain">
+                     <l>
+                        <hi>Heigh-ho. &amp;c.</hi>
+                     </l>
+                  </lg>
+               </lg>
+               <lg>
+                  <l>He call'd his deareſt loue to him,</l>
+                  <l>when as his heart wae ſorry:</l>
+                  <l>And ſpeaking thus with manly heart,</l>
+                  <l>Deare ſweeting, pray for <hi>Georgie.</hi>
+                  </l>
+                  <lg type="refrain">
+                     <l>
+                        <hi>Heigh-ho, &amp;c.</hi>
+                     </l>
+                  </lg>
+               </lg>
+               <lg>
+                  <l>He gaue to her a piece of gold,</l>
+                  <l>and bade her giue't her Barnes:</l>
+                  <l>And oft he kiſt her roſie lips,</l>
+                  <l>and laid him into her armes.</l>
+                  <lg type="refrain">
+                     <l>
+                        <hi>Heigh-ho, &amp;c.</hi>
+                     </l>
+                  </lg>
+               </lg>
+               <lg>
+                  <l>And comming to the place of death,</l>
+                  <l>he neuer changed colour.</l>
+                  <l>The more they thought he would looks pale<g ref="char:punc">▪</g>
+                  </l>
+                  <l>the more his veines were fuller.</l>
+                  <lg type="refrain">
+                     <l>
+                        <hi>Heigh-ho, &amp;c.</hi>
+                     </l>
+                  </lg>
+               </lg>
+               <lg>
+                  <l>And with a cheerefull countenance,</l>
+                  <l>(being at that time entreated</l>
+                  <l>For to confeſſe his former life)</l>
+                  <l>theſe-words he ſtraight repeated.</l>
+                  <lg type="refrain">
+                     <l>
+                        <hi>Heigh-ho &amp;c.</hi>
+                     </l>
+                  </lg>
+               </lg>
+               <lg>
+                  <l>I neuer ſtole no Oxe nor Cow,</l>
+                  <l>nor neuer murdered any:</l>
+                  <l>But fifty Horſe I did receiue</l>
+                  <l>of a Merchants man of <hi>Gory.</hi>
+                  </l>
+                  <lg type="refrain">
+                     <l>
+                        <hi>Heigh-ho, &amp;c.</hi>
+                     </l>
+                  </lg>
+               </lg>
+               <lg>
+                  <l>For which I am condemn'd to dye,</l>
+                  <l>though guiltleſſe I ſtand dying:</l>
+                  <l>Deare gracious God, my ſoule receiue</l>
+                  <l>for now my life is flying.</l>
+                  <lg type="refrain">
+                     <l>
+                        <hi>Heigh-ho, &amp;c.</hi>
+                     </l>
+                  </lg>
+               </lg>
+               <lg>
+                  <l>The man of death a part did act,</l>
+                  <l>which grieues mee tell the ſtory.</l>
+                  <l>God comfort all are comfortleſſe,</l>
+                  <l>and did ſo well as <hi>Georgie.</hi>
+                  </l>
+                  <lg type="refrain">
+                     <l>
+                        <hi>Heigh-ho, Heigh-ho, my bonny Loue,</hi>
+                     </l>
+                     <l>
+                        <hi>heigh-ho heigh-my bonny,</hi>
+                     </l>
+                     <l>
+                        <hi>Heigh-ho, heigh-ho, mine owne true lou</hi>
+                     </l>
+                     <l>
+                        <hi>ſweet Chriſt receiue my Georgie.</hi>
+                     </l>
+                  </lg>
+               </lg>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>At London printed for H. Goſſon.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
